@@ -1,1 +1,1 @@
-https://github.com/OSM-arch/simple-tabs-functionality.git
+https://roadmap.sh/projects/simple-tabs
